@@ -1,1 +1,4 @@
-# jekyll-static-website-themes
+# Jekyll 网站主题 - 由 Netlify CMS 提供支持！
+
+我用 Jekyll 和 Netlify CMS 构建静态网站主题。开发者可以使用这些模板构建格式静态网站，包括企业/产品/品牌网站、个人网站、在线作品集和出版物（新闻/博客）等。
+
